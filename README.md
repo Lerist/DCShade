@@ -34,7 +34,7 @@ customView.bluerEffect(UIBlurEffectStyle.ExtraLight)
 
 ###Identity Inspector
 
-![identity.png](http://www.iprog.it/blog/wp-content/uploads/2016/09/identity.png =650x)
+![identity.png](http://www.iprog.it/blog/wp-content/uploads/2016/09/identity.png )
 
 
 
