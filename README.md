@@ -10,8 +10,19 @@ DCShade allow you to create a fantastic shade in UIView in easy way
 
 ![esempio.png](http://www.iprog.it/blog/wp-content/uploads/2016/09/esempio.png)
 #How do I add it?
+### Setting up with [CocoaPods](http://cocoapods.org/)
 
-You can setting DCShade `via code` or using `Identity Inspector`
+```
+pod 'DCShade'
+```
+
+Then:
+
+``` 
+import DCShade
+```
+
+You can use DCShade `via code` or using `Identity Inspector`
 ###Via Code
 
 ```
